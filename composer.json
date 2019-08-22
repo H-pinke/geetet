@@ -1,0 +1,21 @@
+{
+    "name": "yaohua/geetet",
+    "description": "This is a captcha",
+    "type": "l",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "huyaohua",
+            "email": "huyaohua@258.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Geetet\\" : "src/geetet"
+        }
+    }
+}
